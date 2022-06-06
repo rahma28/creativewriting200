@@ -1,2 +1,2 @@
 # OpenID
-OpenID Connect Single Log On
+OpenID Connect Single Log On Application
